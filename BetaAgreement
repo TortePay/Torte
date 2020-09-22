@@ -1,0 +1,2 @@
+<Text>This is a text</Text>
+<Text style={{color: Colors.white}}>This is white text</Text>
