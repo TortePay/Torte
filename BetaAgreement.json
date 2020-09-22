@@ -1,13 +1,6 @@
 {
-	"text": 
-	[
-		{
-    	"key": "1",
-     	"component": (props = {}) => <Text {...props}>This is text</Text>
-		},
-		{
-    	"key": "2",
-     	"component": (props = {}) => <Text style={{color: 'white'}} {...props}>This is white text</Text>
-		},
+	"text": [
+		{"key": "1", "component": (props = {}) => <Text {...props}>This is text</Text>},
+		{"key": "2", "component": (props = {}) => <Text style={{color: 'white'}} {...props}>This is white text</Text>}
 	]
 }
